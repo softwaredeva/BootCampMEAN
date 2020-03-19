@@ -10,9 +10,12 @@
 ## Video 4
 
 * Web browser y javascript básico [->](./web-broswer-js-basico.md)
-* Javascript avanzado [->](./js-avanzado.md)
 
 ## Video 5
+
+* Javascript avanzado [->](./js-avanzado.md)
+
+## Video 6
 
 * ¿Por qué frameworks? [->](./por-que-framework.md)
 * jQuery, Vue.js, ReactJS & EmberJS; [->](./frameworks.md)
