@@ -1,6 +1,7 @@
 # Familia de protocolos de internet
 
-![Protocolos](./imgs/Suite_de_Protocolos_TCPIP.png)
+<img src="../imgs/Suite_de_Protocolos_TCPIP.png"
+alt="Protocolos" width="420" height="auto" style="border: solid gray 1px"/>
 
 ## HTTP
 
@@ -11,7 +12,8 @@ códigos de estatus del comando, los cuáles definen los errores y los éxitos d
 comando. (505, 502, 200, etc.)
 [Más códigos ->](https://kinsta.com/blog/http-status-codes/)
 
-![HTTP & HTTPS](./imgs/http-vs-https.png)
+<img src="../imgs/http-vs-https.png"
+alt="HTTP & HTTPS" width="420" height="auto" style="border: solid gray 1px"/>
 
 [Referencia Webopedia](https://www.webopedia.com/TERM/W/World_Wide_Web.html)
 
@@ -31,6 +33,7 @@ el receptor.
 "File Transfer Protocol" es otro protocolo de Capa Aplicación que se utiliza
 para la transferencia de archivos.
 
-![HTTP & HTTPS](./imgs/ftp-protocol.png)
+<img src="../imgs/ftp-protocol.png"
+alt="FTP" width="420" height="auto" style="border: solid gray 1px"/>
 
 [<- README](./README.md)

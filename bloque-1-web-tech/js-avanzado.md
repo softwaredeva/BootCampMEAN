@@ -5,16 +5,20 @@
 * Clases
 
 AJAX  
-![AJAXImage](./imgs/ajax.gif)
+<img src="../imgs/ajax.gif"
+alt="AJAX" width="420" height="auto" style="border: solid gray 1px"/>
 
 Using promises  
-![AJAXImage](./imgs/using-promises.png)
+<img src="../imgs/using-promises.png"
+alt="Using promises" width="420" height="auto" style="border: solid gray 1px"/>
 
 Creating promises  
-![AJAXImage](./imgs/creating-promises.png)
+<img src="../imgs/creating-promises.png"
+alt="Creating promises" width="420" height="auto" style="border: solid gray 1px"/>
 
-JS classes
-![AJAXImage](./imgs/js-classes.png)
+JS classes  
+<img src="../imgs/js-classes.png"
+alt="JS classes" width="420" height="auto" style="border: solid gray 1px"/>
 
 ## Retos
 

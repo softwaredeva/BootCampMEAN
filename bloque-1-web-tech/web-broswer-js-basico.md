@@ -10,6 +10,9 @@ definen en dos partes, una su estructura con un lenguaje de marcado "HTML
 (Hypertext Markup Language)" y otra la presentación de estas con el lenguaje
 "CSS (Cascading Style Sheets)".
 
+<img src="../imgs/html-css-js.png"
+alt="HTML CSS JS" width="420" height="auto" style="border: solid gray 1px"/>
+
 [Referencia w3c](https://www.w3.org/standards/webdesign/htmlcss)
 
 ## ECMAscript (Javascript)
@@ -23,6 +26,9 @@ para cargar contenido de acuerdo a la interacción del usuario, este contenido
 puede ser cargado de un servidor y a esto se le llama AJAX (Asynchronous
   JavaScript and XML).
 
+  <img src="../imgs/javascript-logo.png"
+alt="JS" width="120" height="auto"/>
+
 [Referencia w3c](https://www.w3.org/standards/webdesign/script.html)
 
 ## Mozilla
@@ -35,6 +41,9 @@ hacen una serie de recursos y actividades para lograr estos objetivos.
 En su página podemos encontrar la referencia de HTML, CSS, javascript, etc.
 mejor definida:
 [developer.mozilla.org](https://developer.mozilla.org/es/docs/Web).
+
+  <img src="../imgs/mozilla-logo.jpg"
+alt="JS" width="120" height="auto"/>
 
 ## Chromium-base
 
