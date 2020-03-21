@@ -34,14 +34,6 @@
 </html>
 ```
 
-```css
-/* ./style.css */
-
-html, body{
-  height: 100%;
-}
-```
-
 ```js
 // app.js
 
