@@ -4,7 +4,7 @@
 
 ## Video 3
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9Rk5FtDSDuA
+<a href="https://youtu.be/OIjbQqsmHdQ
 " target="_blank"><img src="../imgs/vid3.png"
 alt="Video 3" width="320" height="180" style="border: solid gray 1px"/></a>
 
@@ -13,7 +13,7 @@ alt="Video 3" width="320" height="180" style="border: solid gray 1px"/></a>
 
 ## Video 4
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9Rk5FtDSDuA
+<a href="https://youtu.be/s6tCewPwldU
 " target="_blank"><img src="../imgs/vid4.png"
 alt="Video 4" width="320" height="180" style="border: solid gray 1px"/></a>
 
@@ -21,7 +21,7 @@ alt="Video 4" width="320" height="180" style="border: solid gray 1px"/></a>
 
 ## Video 5
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9Rk5FtDSDuA
+<a href="https://youtu.be/GWLPcKHsd9s
 " target="_blank"><img src="../imgs/vid5.png"
 alt="Video 5" width="320" height="180" style="border: solid gray 1px"/></a>
 
@@ -29,7 +29,7 @@ alt="Video 5" width="320" height="180" style="border: solid gray 1px"/></a>
 
 <!-- ## Video 6
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9Rk5FtDSDuA
+<a href="https://youtu.be/GWLPcKHsd9s
 " target="_blank"><img src="../imgs/vid6.png"
 alt="Video 6" width="320" height="180" style="border: solid gray 1px"/></a>
 

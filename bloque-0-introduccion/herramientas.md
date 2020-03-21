@@ -1,6 +1,6 @@
 # Herramientas y programas
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9Rk5FtDSDuA
+<a href="https://youtu.be/9Rk5FtDSDuA
 " target="_blank"><img src="../imgs/vid2.png"
 alt="IMAGE ALT TEXT HERE" width="320" height="180" style="border: solid gray 1px"/></a>
 

@@ -22,6 +22,10 @@ Framework de desarrollo de aplicaciones web S.P.A. (Single Page Application), or
 Entorno de tiempo de ejecución basado en el motor de Javascript "V8" de Chrome.  
 [https://nodejs.org](https://nodejs.org)
 
+<a href="https://www.youtube.com/watch?v=lhiBezo7IM0&list=PLaSq7dAKyf2b1k89tb3C4TKsFgP5OzuRr
+" target="_blank"><img src="./imgs/playlist.png"
+alt="Video 3" width="320" height="180" style="border: solid gray 1px"/></a>
+
 ## Bloques
 
 * ( 0 ) Introducción (videos 1 y 2) [->](./bloque-0-introduccion/README.md)
