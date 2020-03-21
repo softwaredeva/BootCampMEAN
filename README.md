@@ -24,8 +24,8 @@ Entorno de tiempo de ejecución basado en el motor de Javascript "V8" de Chrome.
 
 ## Bloques
 
-* ( 0 ) Introducción (videos 1 y 2) [->](./0-pre-requisitos/README.md)
-<!-- * ( 1 ) Desarrollo Web [->](./1-desarrollo-web/README.md)
-* ( 2 ) Angular [->](./2-angular/README.md)
-* ( 3 ) NodeJS & Express [->](./3-node-express-npm/README.md)
-* ( 4 ) MongoDB [->](./4-mongodb/README.md) -->
+* ( 0 ) Introducción (videos 1 y 2) [->](./bloque-0-introduccion/README.md)
+* ( 1 ) Desarrollo Web (videos 3, 4, 5, 6) [->](./bloque-1-web-tech/README.md)
+<!-- * ( 2 ) Angular [->](./bloque-2-angular/README.md) -->
+<!-- * ( 3 ) NodeJS & Express [->](./bloque-3-node-express/README.md) -->
+<!-- * ( 4 ) MongoDB [->](./bloque-4-mongodb/README.md) -->
