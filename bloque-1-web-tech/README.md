@@ -27,12 +27,12 @@ alt="Video 5" width="320" height="180" style="border: solid gray 1px"/></a>
 
 * Javascript avanzado [->](./js-avanzado.md)
 
-<!-- ## Video 6
+## Video 6
 
-<a href="https://youtu.be/GWLPcKHsd9s
+<a href="https://youtu.be/2LZDb3xakHg
 " target="_blank"><img src="../imgs/vid6.png"
 alt="Video 6" width="320" height="180" style="border: solid gray 1px"/></a>
 
 * ¿Por qué frameworks? [->](./por-que-framework.md)
 * jQuery, Vue.js, ReactJS & EmberJS; [->](./frameworks.md)
-* AngularJS y Angular2+ [->](./angular-historia.md) -->
+* AngularJS y Angular2+ [->](./angular-historia.md)
