@@ -4,7 +4,7 @@
 
 ## Video 7
 
-<a href="https://youtu.be/OIjbQqsmHdQ
+<a href="https://youtu.be/l74JP0HmGqY
 " target="_blank"><img src="../imgs/vid7.png"
 alt="Video 7" width="320" height="180" style="border: solid gray 1px"/></a>
 
