@@ -13,12 +13,12 @@ Pantalla 3: Carrito - se debe mostrar un menú lateral donde se muestre una list
 
 Pantalla 4: Checkout: - se mostrará el carrito así como el costo de envío y el total final, deberá tener una forma para llenar la información del usuario, al realizar la compra deberá mostrar un mensaje de confirmación.
 
-
 <img src="../imgs/E-commerce-design.png"
 alt="E commerce" width="auto" height="180"/>
 
 <img src="../imgs/E-commerce-design-2.png"
 alt="E commerce2" width="auto" height="180"/>
+
 ## Video 7
 
 <a href="https://youtu.be/l74JP0HmGqY
@@ -39,3 +39,12 @@ alt="Video 8" width="320" height="180" style="border: solid gray 1px"/></a>
 * Sass [->](./sass.md)
 * Data binding [->](./data-binding.md)
 * Ng Built-in directives & pipes [->](./ng-built-in-directives-pipes.md)
+
+## Video 9
+
+<a href="https://youtu.be/l74JP0HmGqY
+" target="_blank"><img src="../imgs/vid8.png"
+alt="Video 8" width="320" height="180" style="border: solid gray 1px"/></a>
+
+* Components [->](./components.md)
+* Inputs & Outputs [->](./inputs-outputs.md)
