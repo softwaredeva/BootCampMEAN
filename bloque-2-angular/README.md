@@ -42,9 +42,9 @@ alt="Video 8" width="320" height="180" style="border: solid gray 1px"/></a>
 
 ## Video 9
 
-<a href="https://youtu.be/l74JP0HmGqY
-" target="_blank"><img src="../imgs/vid8.png"
-alt="Video 8" width="320" height="180" style="border: solid gray 1px"/></a>
+<a href="https://youtu.be/_U4DCbelcEU
+" target="_blank"><img src="../imgs/vid9.png"
+alt="Video 9" width="320" height="180" style="border: solid gray 1px"/></a>
 
 * Components [->](./components.md)
 * Inputs & Outputs [->](./inputs-outputs.md)
